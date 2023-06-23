@@ -3,7 +3,7 @@
 /* Estilos generales */
 
 body {
-    font-family: Arial, sans-serif;
+  font-family: 'Permanent Marker', cursive;
     margin: 0;
     padding: 0;
   }
@@ -17,7 +17,7 @@ body {
   /* Estilos del header */
   
   header {
-    background-color: #333;
+    background-color: rgb(6, 6, 53);
     color: #fff;
     padding: 20px;
   }
@@ -41,10 +41,11 @@ body {
   /* Estilos del footer */
   
   footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
+    background-image: url("animeimage.jpg");
+    color: #00FF00;
+    padding: 80px;
     text-align: center;
+    text-decoration:underline;
   }
   
   /* Estilos adicionales */
